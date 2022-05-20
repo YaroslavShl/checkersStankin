@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CGameBoard.cpp
+  Checkers_MFC.cpp
+  Checkers_MFCDoc.cpp
+  Checkers_MFCView.cpp
+C:\Users\Bakfard\Desktop\Шашки\Checkers_MFC\Checkers_MFCView.cpp(250,62): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MainFrm.cpp
+  Создание кода...
+  Checkers_MFC.vcxproj -> C:\Users\Bakfard\Desktop\Шашки\x64\Debug\Checkers_MFC.exe
